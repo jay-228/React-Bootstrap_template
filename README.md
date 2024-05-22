@@ -2,7 +2,7 @@ Project Video Link: https://drive.google.com/file/d/1vugkBr2Vy6yHaMoCnv9_OVdoQwL
 
 ==================== Project Description ====================
 
-![Screenshot 2024-05-22 113522](https://github.com/jay-228/React-Bootstrap_template/assets/122542095/861ae30a-3925-4aa1-a498-dc1bd9f705ba)
+![Screenshot 2024-05-22 144855](https://github.com/jay-228/React-Bootstrap_template/assets/122542095/93c0cc51-b150-41ec-b2d3-6a50b8931dfc)
 
 
 **Instructions:**
